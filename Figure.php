@@ -16,5 +16,6 @@ public function __construct()
     $this->name = $name;
 
 echo B;
+echo $name;
 }
 }
